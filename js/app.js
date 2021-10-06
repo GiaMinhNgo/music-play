@@ -29,10 +29,16 @@ const app = {
             image: './assets/img/bonghoadepnhat.jpg'
         },
         {
-            name: 'Thay đổi',
-            sigger: 'Lil Wuyn',
-            path: './assets/music/thaydoi.mp3',
-            image: './assets/img/thaydoi.jpg'
+            name: 'Chiều hôm ấy',
+            sigger: 'JayKii',
+            path: './assets/music/chieuhomay.mp3',
+            image: './assets/img/chieuhomay.jpg'
+        },
+        {
+            name: 'Đã lỡ yêu em nhiều',
+            sigger: 'JustaTee',
+            path: './assets/music/daloyeuemnhieu.mp3',
+            image: './assets/img/daloyeuemnhieu.jpg'
         },
         {
             name: 'Đánh mất em',
@@ -41,40 +47,40 @@ const app = {
             image: './assets/img/danhmatem.jpg'
         },
         {
-            name: 'Ai biết',
-            sigger: 'Wean',
-            path: './assets/music/aibiet.mp3',
-            image: './assets/img/aibiet.jpg'
+            name: 'Em không sai chúng ta sai',
+            sigger: 'Erik',
+            path: './assets/music/emkhongsaichungtasai.mp3',
+            image: './assets/img/emkhongsaichungtasai.jpg'
         },
         {
-            name: 'Áo màu xanh',
-            sigger: 'Wean ft Khoa Wzzzy & Wuyn',
-            path: './assets/music/aomauxanh.mp3',
-            image: './assets/img/aomauxanh.jpg'
+            name: 'Lạ lùng',
+            sigger: 'Vũ',
+            path: './assets/music/lalung.mp3',
+            image: './assets/img/lalung.jpg'
         },
         {
-            name: 'Dont wase my time',
-            sigger: 'Lil Wuyn x 16 Typh',
-            path: './assets/music/dontwasemytime.mp3',
-            image: './assets/img/dontwasemytime.jpg'
+            name: 'Lời xin lỗi vụng về',
+            sigger: 'Anh Quân AP',
+            path: './assets/music/loixinloivungve.mp3',
+            image: './assets/img/loixinloivungve.jpg'
         },
         {
-            name: 'Level up',
-            sigger: 'Terry up x Ricky Star x Lil Wuyn x Robe',
-            path: './assets/music/levelup.mp3',
-            image: './assets/img/levelup.jpg'
-        },
-        {
-            name: 'She said',
-            sigger: 'Wean ft NAOMI',
-            path: './assets/music/shesaid.mp3',
-            image: './assets/img/shesaid.jpg'
+            name: 'Old Town Road',
+            sigger: 'Lil Nas X',
+            path: './assets/music/OldTownRoad.mp3',
+            image: './assets/img/OldTownRoad.jpg'
         },
         {
             name: 'The playah',
             sigger: 'Soobin Hoàng Sơn',
             path: './assets/music/theplayah.mp3',
             image: './assets/img/theplayah.jpg'
+        },
+        {
+            name: 'Vài lần đón đưa',
+            sigger: 'Soobin Hoàng Sơn',
+            path: './assets/music/vailandondua.mp3',
+            image: './assets/img/vailandondua.jpg'
         },
     ],
     render: function () {
